@@ -6,13 +6,12 @@
 }
 
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f5f5f5;
-  color: #333;
+  background-color: #7fafda; /* Світло-блакитний колір */
+  color: #000000; /* Колір тексту */
 }
 
 header {
-  background-color: #333;
+  background-color: #306572;
   color: white;
   text-align: center;
   padding: 20px;
@@ -42,7 +41,7 @@ header {
 }
 
 .block {
-  background-color: white;
+  background-color: rgb(152, 214, 214);
   padding: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   flex: 1 1 calc(50% - 40px);
